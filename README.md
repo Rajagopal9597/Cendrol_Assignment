@@ -9,6 +9,6 @@ Assignment 2 - https://cendrol-assignment-2.onrender.com
 
 Assignment 3 - https://cendrol-assignment-3.onrender.com
 
-Assignment 4 - the output would be 0, as the element check exists.
+Assignment 4 - 0 would be rendered, as the element check exists.
 
 i have done all the assignments as per my understanding of the given question incase of any shortcomings let me know i will improvise.
