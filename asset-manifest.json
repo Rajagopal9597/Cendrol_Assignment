@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cendrol_Assignment/static/css/main.623f85b0.css",
+    "main.js": "/Cendrol_Assignment/static/js/main.277ef266.js",
+    "static/js/787.cda612ba.chunk.js": "/Cendrol_Assignment/static/js/787.cda612ba.chunk.js",
+    "index.html": "/Cendrol_Assignment/index.html",
+    "main.623f85b0.css.map": "/Cendrol_Assignment/static/css/main.623f85b0.css.map",
+    "main.277ef266.js.map": "/Cendrol_Assignment/static/js/main.277ef266.js.map",
+    "787.cda612ba.chunk.js.map": "/Cendrol_Assignment/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.623f85b0.css",
+    "static/js/main.277ef266.js"
+  ]
+}
